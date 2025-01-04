@@ -1,0 +1,16 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 90, 194);
+    font-size: large;
+    background-color: rgb(59, 59, 59);
+}
+
+header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
